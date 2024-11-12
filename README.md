@@ -7,17 +7,14 @@ This repository demonstrates interpretability techniques for Convolutional Neura
 
 1. **CNN Interpretability**
     `cnn_circuits.ipynb`
-   - Explores feature maps, saliency maps, and Grad-CAM visualizations to interpret CNN models.
-   - Techniques: Saliency Maps, Grad-CAM, and feature extraction for convolutional layers.
+    -> Interpreting CNN models with feature maps, saliency maps, and Grad-CAM visualizations.
 
 2. **Language Model Interpretability**
     `lm_circuits.ipynb`
-   - Analyzes hidden states in GPT-2 to detect neural circuits using PCA, K-Means clustering, and t-SNE.
-   - Techniques: PCA, K-Means clustering, and t-SNE on hidden states to reveal latent neural circuits.
+    -> Analyzing hidden states in GPT-2 to detect neural circuits using PCA, K-Means clustering, and t-SNE.
 
     `circuitsvis_attention.ipynb` - **Attention Visualization with CircuitsVis**
-   - Uses CircuitsVis to visualize attention patterns in GPT-2, revealing how specific attention heads focus on various tokens.
-   - Techniques: Attention visualization across layers using CircuitsVis for token-to-token dependency insights.
+   -> Using CircuitsVis to visualize attention patterns in GPT-2, revealing how specific attention heads focus on different tokens.
 
 1. **Clone the Repository**:
 
