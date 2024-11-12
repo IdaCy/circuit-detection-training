@@ -1,5 +1,5 @@
-# Introductory Training - Circuits
-**CNNs, Language Models, and Attention Visualizations in Neuronal Networks**
+# Training: Circuits in Neuronal Networks
+**CNNs, Language Models, and Attention Visualizations**
 
 This repository demonstrates interpretability techniques for Convolutional Neural Networks (CNNs) and transformer-based Language Models (LMs). It is designed to explore and explain **mechanistic interpretability** — understanding how and why neural models make certain predictions.
 
