@@ -12,6 +12,7 @@ dependencies:
   - jupyterlab
   - pytorch
   - torchvision
+  - circuitsvis
   - pip:
       - transformers
       - matplotlib

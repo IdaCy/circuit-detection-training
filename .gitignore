@@ -1,7 +1,6 @@
 # Ignore generated feature map images and saliency maps
-cluster_visualizations/*
 CNN_interp/output/*
-
+LM_interp/output/*
 
 # Ignore any other temporary files or caches
 __pycache__/
