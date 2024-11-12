@@ -5,15 +5,15 @@ This repository demonstrates interpretability techniques for Convolutional Neura
 
 ## Notebooks
 
-1. **CNN Interpretability**
-    `cnn_circuits.ipynb`
+1. **CNN Interpretability**  
+    `cnn_circuits.ipynb`  
     -> Interpreting CNN models with feature maps, saliency maps, and Grad-CAM visualizations.
 
-2. **Language Model Interpretability**
-    `lm_circuits.ipynb`
+2. **Language Model Interpretability**  
+    `lm_circuits.ipynb`  
     -> Analyzing hidden states in GPT-2 to detect neural circuits using PCA, K-Means clustering, and t-SNE.
 
-    `circuitsvis_attention.ipynb` - **Attention Visualization with CircuitsVis**
+    `circuitsvis_attention.ipynb`  
    -> Using CircuitsVis to visualize attention patterns in GPT-2, revealing how specific attention heads focus on different tokens.
 
 1. **Clone the Repository**:
