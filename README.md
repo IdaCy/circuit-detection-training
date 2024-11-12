@@ -11,7 +11,14 @@ This repository provides a training exercise for detecting circuits in a neural 
 
 2. **Install Required Packages**:
 
+Either use pip or conda:
+
     pip install -r requirements.txt
+
+Or
+
+    conda env create -f environment.yml
+    conda activate circenv
 
 3. **Download Sample Images!**
 

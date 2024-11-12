@@ -81,7 +81,7 @@ def saliency_map(image_tensor, target_class):
 
 def main():
     # Load and process the image
-    image_path = 'images/face.jpg'
+    image_path = 'images/bike.jpg'
     image_tensor = load_image(image_path)
 
     # Run the model and capture activations
