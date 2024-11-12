@@ -1,8 +1,23 @@
-# Circuit Detection - Training 2
+# Mechanistic Interpretability in Neural Networks: 
+**CNNs, Language Models, and Attention Visualizations**
 
-This repository provides a training exercise for detecting circuits in a neural network. You’ll load a pre-trained model, capture activations for specific layers, and apply clustering to identify circuits of neurons that activate together.
+This repository demonstrates interpretability techniques for Convolutional Neural Networks (CNNs) and transformer-based Language Models (LMs). It is designed to explore and explain **mechanistic interpretability** — understanding how and why neural models make certain predictions.
 
-## Setup
+## Notebooks
+
+1. **CNN Interpretability**
+    `cnn_circuits.ipynb`
+   - Explores feature maps, saliency maps, and Grad-CAM visualizations to interpret CNN models.
+   - Techniques: Saliency Maps, Grad-CAM, and feature extraction for convolutional layers.
+
+2. **Language Model Interpretability**
+    `lm_circuits.ipynb`
+   - Analyzes hidden states in GPT-2 to detect neural circuits using PCA, K-Means clustering, and t-SNE.
+   - Techniques: PCA, K-Means clustering, and t-SNE on hidden states to reveal latent neural circuits.
+
+    `circuitsvis_attention.ipynb` - **Attention Visualization with CircuitsVis**
+   - Uses CircuitsVis to visualize attention patterns in GPT-2, revealing how specific attention heads focus on various tokens.
+   - Techniques: Attention visualization across layers using CircuitsVis for token-to-token dependency insights.
 
 1. **Clone the Repository**:
 
@@ -24,15 +39,7 @@ Or
 
 Add sample images to the images/ folder to test circuit detection on different inputs.
 
-4. **Running Circuit Detection:**
-
-Run the script to see the activations, clustering results, and visualizations for circuits:
-
-    python cnn_circuits.py
-    python lm_circuits.py
-
-This will load the model, capture activations from specific layers, apply clustering, and visualize the identified circuits.
-
+4. **Run The Notebooks and Experiment with Results**
 
 ## Example images by courtesy of Pixabay:
 https://pixabay.com/photos/bicycle-bike-activity-cycle-789648/

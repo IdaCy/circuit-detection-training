@@ -2,7 +2,7 @@
 CNN_interp/output/*
 LM_interp/output/*
 
-# Ignore any other temporary files or caches
+# Ignore temporary files / caches
 __pycache__/
 *.pyc
 .DS_Store
