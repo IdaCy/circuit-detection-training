@@ -1,5 +1,5 @@
-# Mechanistic Interpretability in Neural Networks: 
-**CNNs, Language Models, and Attention Visualizations**
+# Introductory Training - Circuits
+**CNNs, Language Models, and Attention Visualizations in Neuronal Networks**
 
 This repository demonstrates interpretability techniques for Convolutional Neural Networks (CNNs) and transformer-based Language Models (LMs). It is designed to explore and explain **mechanistic interpretability** — understanding how and why neural models make certain predictions.
 
@@ -39,9 +39,9 @@ Add sample images to the images/ folder to test circuit detection on different i
 4. **Run The Notebooks and Experiment with Results**
 
 ## Example images by courtesy of Pixabay:
-https://pixabay.com/photos/bicycle-bike-activity-cycle-789648/
-https://pixabay.com/vectors/bicycle-bike-cycling-transport-7876692/
-https://pixabay.com/photos/cat-kitten-pet-striped-young-1192026/
-https://pixabay.com/photos/woman-face-smile-lips-hairstyle-8592765/
-https://pixabay.com/photos/glencoe-scotland-nature-landscape-8299076/
-https://pixabay.com/photos/wood-boards-texture-wooden-brown-2045380/
+https://pixabay.com/photos/bicycle-bike-activity-cycle-789648/  
+https://pixabay.com/vectors/bicycle-bike-cycling-transport-7876692/  
+https://pixabay.com/photos/cat-kitten-pet-striped-young-1192026/  
+https://pixabay.com/photos/woman-face-smile-lips-hairstyle-8592765/  
+https://pixabay.com/photos/glencoe-scotland-nature-landscape-8299076/  
+https://pixabay.com/photos/wood-boards-texture-wooden-brown-2045380/  
