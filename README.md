@@ -1,7 +1,9 @@
 # Training: Circuits in Neuronal Networks
 **CNNs, Language Models, and Attention Visualizations**
 
-This repository demonstrates interpretability techniques for Convolutional Neural Networks (CNNs) and transformer-based Language Models (LMs). It is designed to explore and explain **mechanistic interpretability** — understanding how and why neural models make certain predictions.
+Hands-On Practice repository supplement to the ARENA training (https://www.lesswrong.com/posts/LnHowHgmrMbWtpkxx/interpretability-with-sparse-autoencoders-colab-exercises).  
+
+This repository lets you use interpretability techniques for Convolutional Neural Networks (CNNs) and transformer-based Language Models (LMs). It is designed to explore and explain **mechanistic interpretability** — understanding how and why neural models make certain predictions.  
 
 ## Notebooks
 
